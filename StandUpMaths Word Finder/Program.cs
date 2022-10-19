@@ -21,7 +21,7 @@ namespace StandUpMaths_Word_Finder
         static async Task Yes(){
             //not the time before starting
             var start = DateTime.Now;
-            var file = File.ReadAllLines("C:\\Users\\Airsc\\Downloads\\words_alpha.txt");
+            var file = File.ReadAllLines("\\StandUpMaths Word Finder\\words_alpha.txt");
             var words = file.Where(x => x.Length == 5).ToList();
             List<string> results = new List<string>();
             List<char> chars = new List<char>();
