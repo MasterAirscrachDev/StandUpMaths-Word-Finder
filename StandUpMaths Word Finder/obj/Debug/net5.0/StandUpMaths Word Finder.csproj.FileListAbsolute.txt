@@ -1,0 +1,16 @@
+C:\Users\Airsc\Documents\Code Stuff\StandUpMaths Word Finder\StandUpMaths Word Finder\bin\Debug\net5.0\StandUpMaths Word Finder.exe
+C:\Users\Airsc\Documents\Code Stuff\StandUpMaths Word Finder\StandUpMaths Word Finder\bin\Debug\net5.0\StandUpMaths Word Finder.deps.json
+C:\Users\Airsc\Documents\Code Stuff\StandUpMaths Word Finder\StandUpMaths Word Finder\bin\Debug\net5.0\StandUpMaths Word Finder.runtimeconfig.json
+C:\Users\Airsc\Documents\Code Stuff\StandUpMaths Word Finder\StandUpMaths Word Finder\bin\Debug\net5.0\StandUpMaths Word Finder.runtimeconfig.dev.json
+C:\Users\Airsc\Documents\Code Stuff\StandUpMaths Word Finder\StandUpMaths Word Finder\bin\Debug\net5.0\StandUpMaths Word Finder.dll
+C:\Users\Airsc\Documents\Code Stuff\StandUpMaths Word Finder\StandUpMaths Word Finder\bin\Debug\net5.0\StandUpMaths Word Finder.pdb
+C:\Users\Airsc\Documents\Code Stuff\StandUpMaths Word Finder\StandUpMaths Word Finder\obj\Debug\net5.0\StandUpMaths Word Finder.csproj.AssemblyReference.cache
+C:\Users\Airsc\Documents\Code Stuff\StandUpMaths Word Finder\StandUpMaths Word Finder\obj\Debug\net5.0\StandUpMaths Word Finder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Airsc\Documents\Code Stuff\StandUpMaths Word Finder\StandUpMaths Word Finder\obj\Debug\net5.0\StandUpMaths Word Finder.AssemblyInfoInputs.cache
+C:\Users\Airsc\Documents\Code Stuff\StandUpMaths Word Finder\StandUpMaths Word Finder\obj\Debug\net5.0\StandUpMaths Word Finder.AssemblyInfo.cs
+C:\Users\Airsc\Documents\Code Stuff\StandUpMaths Word Finder\StandUpMaths Word Finder\obj\Debug\net5.0\StandUpMaths Word Finder.csproj.CoreCompileInputs.cache
+C:\Users\Airsc\Documents\Code Stuff\StandUpMaths Word Finder\StandUpMaths Word Finder\obj\Debug\net5.0\StandUpMaths Word Finder.dll
+C:\Users\Airsc\Documents\Code Stuff\StandUpMaths Word Finder\StandUpMaths Word Finder\obj\Debug\net5.0\refint\StandUpMaths Word Finder.dll
+C:\Users\Airsc\Documents\Code Stuff\StandUpMaths Word Finder\StandUpMaths Word Finder\obj\Debug\net5.0\StandUpMaths Word Finder.pdb
+C:\Users\Airsc\Documents\Code Stuff\StandUpMaths Word Finder\StandUpMaths Word Finder\obj\Debug\net5.0\StandUpMaths Word Finder.genruntimeconfig.cache
+C:\Users\Airsc\Documents\Code Stuff\StandUpMaths Word Finder\StandUpMaths Word Finder\obj\Debug\net5.0\ref\StandUpMaths Word Finder.dll
